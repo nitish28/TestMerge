@@ -1,0 +1,38 @@
+https://drive.google.com/drive/u/0/folders/0B98KHGgLEDjHUVZGcDhWdVJWWjg
+https://www.apache.org/index.html#projects-list
+
+linumx cheat sheet
+https://phoenixnap.com/kb/linux-commands-cheat-sheet
+https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html
+http://learn.leighcotnoir.com/wp-content/uploads/2016/08/POSIX-file-permissions.pdf
+
+
+hadoop
+https://hadoop.apache.org/docs/r3.0.0/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html
+https://www.guru99.com/introduction-to-mapreduce.html
+http://oozie.apache.org/docs/4.3.0/index.html
+
+
+Resource manager- scheduler
+https://docs.cloudera.com/runtime/7.2.6/yarn-reference/topics/yarn-FS-vs-CS.html
+
+
+##sqoop 
+links
+https://sqoop.apache.org/docs/1.4.7/SqoopUserGuide.html
+##sqoop cmds
+sqoop 
+https://sqoop.apache.org/docs/1.4.7/SqoopUserGuide.html#_incremental_imports
+sqoop import --connect jdbc:mysql://sqoopdb.slbdh.cloudlabs.com/taruna2911gmail--driver com.mysql.jdbc.Driver --username taruna2911gmail -P --table EMP --target-dir /user/taruna2911gmail/sqoop_demo -m 1
+ 
+
+#flume
+https://sqoop.apache.org/docs/1.4.7/SqoopUserGuide.html#_incremental_imports
+flume-ng agent  -f /home/taruna2911gmail/flume/config/flume.config Dflume.root.logger=DEBUG,console -n TwitterAgent
+
+#mapreduce
+https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+#custo, particitioner
+https://www.oodlestechnologies.com/blogs/partitioning-in-hadoop-implement-a-custom-partitioner/
+https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html  --- MUSTDO
+
